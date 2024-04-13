@@ -11,4 +11,4 @@ With the **direct collocation** and the NLP solver **fmincon** of matlab, the tr
 - **contact forces**
 - **motion trajectory of the floating-base**
 
-by using the nonlinear hybrid dynamics and the **phase-based end-effector constraints**.
+by using the **hybrid single rigid body model (SRBM) dynamics** and the **phase-based end-effector constraints**.
