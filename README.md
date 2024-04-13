@@ -1,2 +1,3 @@
 # MX_TO_Hopper
-[A towr-inspired continuous jumping motion optimization for a one-legged robot.](hopper.mp4)
+![hopper](hopper.gif)
+A towr-inspired continuous jumping motion optimization for a one-legged robot.
